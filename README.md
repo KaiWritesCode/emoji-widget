@@ -1,4 +1,4 @@
-Check it out -> https://therealkai.github.io/emoji-widget/
+Check it out -> https://kaiwritescode.github.io/emoji-widget/
 
 # emoji-widget
 small project, emoji star rating widget
